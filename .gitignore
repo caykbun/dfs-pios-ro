@@ -1,0 +1,9 @@
+*.o
+*.d
+*.list
+*.elf
+*.bin
+.vscode/
+.DS_Store
+*.test
+libpi/libpi.a
